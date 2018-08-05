@@ -6,7 +6,7 @@
 [![Code Coverage](https://scrutinizer-ci.com/g/EC-CUBE/ec-cube/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/EC-CUBE/ec-cube/?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/EC-CUBE/ec-cube/badge.svg?branch=master)](https://coveralls.io/github/EC-CUBE/ec-cube?branch=master)
   
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EC-CUBE/ec-cube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EC-CUBE/ec-cube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/ec-cube.svg)](https://www.guardrails.io)
 
 
 + 本ドキュメントはEC-CUBEの開発者を主要な対象者としております。  
